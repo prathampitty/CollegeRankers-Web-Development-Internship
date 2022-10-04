@@ -16,5 +16,5 @@ This repository contains my CollegeRankers-Web-Development-Internship project's
 
 ### **My projects**
 
-* [Restaurant website](https://github.com/prathampitty/CollegeRankers-Web-Development-Internship/tree/main/Restaurant%20website "Restaurant website")
-* [Music store page](https://github.com/prathampitty/CollegeRankers-Web-Development-Internship/tree/main/Music%20store%20page "Music store page")
+* [Restaurant website](https://prathampitty.github.io/CollegeRankers-Web-Development-Internship/Restaurant%20website/ "Restaurant website")
+* [Music store page](https://prathampitty.github.io/CollegeRankers-Web-Development-Internship/Music%20store%20page/ "Music store page")
